@@ -33,7 +33,7 @@ function Dashboard() {
       >
         <List>
           <ListItem disablePadding> 
-            <ListItemButton component="a" href="#beranda"> 
+            <ListItemButton component="a" href="#Beranda"> 
               <ListItemText primary="Beranda" />
             </ListItemButton>
           </ListItem>
